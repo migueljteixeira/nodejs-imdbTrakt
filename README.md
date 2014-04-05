@@ -3,6 +3,10 @@ Import your [IMDB.com](http://www.imdb.com/) ratings list to [Trakt.tv](http://t
 
 You'll need node.js to run it. Get it at [www.nodejs.org](http://www.nodejs.org).
 
+Run the following command to install the _csv parser_:
+
+    $ npm install csv
+
 Next, run main.js through node program:
 
     $ node main.js
